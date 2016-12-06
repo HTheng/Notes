@@ -1,12 +1,5 @@
 
 
-# usedemo
+SQL
 
-can i write it?
-
-new line
-
-sdsad d撒旦
-
-2222
-cao
+exec sp_helprotect @name='tempTblConfigData'
