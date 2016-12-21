@@ -22,10 +22,4 @@ BEGIN 
     
 GO
     
-    
-    [google](https://www.google.com)
-
-[jiang heng](http://www.google.com)
-
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
-
+   
