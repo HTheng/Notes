@@ -18,4 +18,4 @@ select * into [newtable] from [oldtable]
 --复制到临时表</br> 
 select * into #temptablename from 数据库名.dbo.原表名 where 1=0 
 
-
+[Google](https://www.google.com)
